@@ -7,8 +7,8 @@ import {CgFileDocument} from "react-icons/cg";
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     HTTPPawDesc : "This website is a landing page of Tinder but for dogs. It is a responsive website which was made to understand Bootstrap. I also learned how to host my project on Github and then how to deploy that project using render and vercel.",
-    HTTPPawGithub : "https://github.com/DevanshSahni/tindog",
-    HTTPPawWebsite : "https://devanshsahni.github.io/tindog/",
+    HTTPPawGithub : "https://github.com/ianand3977/HTTPPaw",
+    HTTPPawWebsite : "https://http-paw.vercel.app/",
 
     Job_KhojoDesc : "A comprehensive job portal application built using the MERN stack, offering dual login functionalities for both employers and recruiters. Employers can post job listings, manage applications, and communicate with candidates, while recruiters can search for jobs, apply, and track their application statuses seamlessly.",
     Job_KhojoGithub : "https://github.com/ianand3977/JOBPORTAL",
