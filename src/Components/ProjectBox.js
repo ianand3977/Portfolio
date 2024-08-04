@@ -1,3 +1,4 @@
+//projectBox.js
 import React from 'react';
 import {FaGithub} from "react-icons/fa";
 import {CgFileDocument} from "react-icons/cg";
@@ -37,11 +38,11 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
             {desc[projectName + 'Desc']}
             <br />
 
-            <a style={{display:show}} href={desc[projectName + 'Github']} target='_blank'>
+            <a style={{display:show}} href={desc[projectName + 'Github']} target=''>
               <button className='projectbtn'><FaGithub/> Github</button>
             </a>
 
-            <a href={desc[projectName + 'Website']} target='_blank'>
+            <a href={desc[projectName + 'Website']} target=''>
               <button className='projectbtn'><CgFileDocument/> Demo</button>
             </a>
         </div>

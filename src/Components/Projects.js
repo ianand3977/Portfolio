@@ -1,3 +1,4 @@
+//projects.js
 import React from 'react';
 import ProjectBox from './ProjectBox';
 import jobkhojo from '../images/job.png';

@@ -1,3 +1,4 @@
+//home.js
 import React from 'react';
 import Lottie from  "lottie-react";
 import SpaceBoy from "../LottieFiles/SpaceBoy.json";
