@@ -43,7 +43,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
             </a>
 
             <a href={desc[projectName + 'Website']} target=''>
-              <button className='projectbtn'><CgFileDocument/> Demo</button>
+              <button className='projectbtn'><CgFileDocument/> View</button>
             </a>
         </div>
     </div>
