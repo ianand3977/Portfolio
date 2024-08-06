@@ -12,7 +12,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
 
     Job_KhojoDesc : "A comprehensive job portal application built using the MERN stack, offering dual login functionalities for both employers and recruiters. Employers can post job listings, manage applications, and communicate with candidates, while recruiters can search for jobs, apply, and track their application statuses seamlessly.",
     Job_KhojoGithub : "https://github.com/ianand3977/JOBPORTAL",
-    Job_KhojoWebsite : "",
+    Job_KhojoWebsite : "https://job-khojo.vercel.app/",
 
     Live_Weather_ForecastDesc:"This is a live weather app that allows users to check the current weather conditions for any city. The app uses the OpenWeatherMap API to fetch and display weather data.",
     Live_Weather_ForecastGithub:"https://github.com/ianand3977/Live_Weather_app",
